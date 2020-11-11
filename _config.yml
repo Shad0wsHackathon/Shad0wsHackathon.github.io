@@ -41,7 +41,7 @@ publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
-theme: default
+theme: three
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
